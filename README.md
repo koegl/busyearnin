@@ -3,7 +3,8 @@
 # Busy Earnin
 
 
-### 1. Musk scraping @Fryderyk
+### 1. Musk scraping [@Fryderyk](https://github.com/koeglfryderyk)
+
   a. Start with Musk tweets
   b. Write down all tweets + timestamps from 2021
 
