@@ -4,20 +4,19 @@
 
 
 ### 1. Musk scraping [@fryderyk](https://github.com/koeglfryderyk)
+* Start with Musk tweets
+* b. Write down all tweets + timestamps from 2021
 
-  a. Start with Musk tweets
-  b. Write down all tweets + timestamps from 2021
-
-### 2. Trading simulator [@philipp](http://www.pornhub.com/)
-  a. Try backward
-  b. Stock/crypto scraping
+### 2. Trading simulator [@philipp](https://github.com/PhilGass)
+* Try backward
+* Stock/crypto scraping
   
 ### 3. NLP (using quantum computing)
-  a. For now “by hand”
+* For now “by hand”
 
 ### 4. Trading strategy
-  a. How much to buy
-  b. When and how much to sell
+* How much to buy
+* When and how much to sell
 
 ### 5. Buying interface
-  a. At first alert based
+* At first alert based
