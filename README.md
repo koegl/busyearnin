@@ -3,11 +3,11 @@
 # Busy Earnin
 
 
-### 1. Musk scraping [@fryderyk](https://github.com/koeglfryderyk)
+### [1. Musk scraping](https://github.com/koeglfryderyk/busyearnin/tree/MuskScraping) [@fryderyk](https://github.com/koeglfryderyk)
 * Start with Musk tweets
-* b. Write down all tweets + timestamps from 2021
+* Write down all tweets + timestamps from 2021
 
-### 2. Trading simulator [@philipp](https://github.com/PhilGass)
+### [2. Trading simulator](https://github.com/koeglfryderyk/busyearnin/tree/TradingSimulator) [@philipp](https://github.com/PhilGass)
 * Try backward
 * Stock/crypto scraping
   
